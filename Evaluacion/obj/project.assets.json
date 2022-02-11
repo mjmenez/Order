@@ -3245,11 +3245,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Evaluacion\\Evaluacion\\Evaluacion\\Evaluacion\\Evaluacion.csproj",
+      "projectUniqueName": "C:\\Users\\majime0\\Source\\Repos\\Order\\Evaluacion\\Evaluacion.csproj",
       "projectName": "Evaluacion",
-      "projectPath": "C:\\Evaluacion\\Evaluacion\\Evaluacion\\Evaluacion\\Evaluacion.csproj",
+      "projectPath": "C:\\Users\\majime0\\Source\\Repos\\Order\\Evaluacion\\Evaluacion.csproj",
       "packagesPath": "C:\\Users\\majime0\\.nuget\\packages\\",
-      "outputPath": "C:\\Evaluacion\\Evaluacion\\Evaluacion\\Evaluacion\\obj\\",
+      "outputPath": "C:\\Users\\majime0\\Source\\Repos\\Order\\Evaluacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\majime0\\AppData\\Roaming\\NuGet\\NuGet.Config",
